@@ -39,10 +39,10 @@ Here are some ideas to get you started:
  ![](https://img.shields.io/badge/Unreal_Engine-4?style=for-the-badge&logo=Unreal-Engine&logoColor=white&color=000000) ![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=ADD8E6)   ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=800080) ![](https://img.shields.io/badge/VS-Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=800080)  ![](https://img.shields.io/badge/Android-Studio-informational?style=for-the-badge&logo=android&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=FF0000) ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=FF4500) ![](https://img.shields.io/badge/Adobe-PremierePro-informational?style=for-the-badge&logo=adobe&logoColor=white&color=800080) ![](https://img.shields.io/badge/Sony-Vegas-informational?style=for-the-badge&logo=moo&logoColor=white&color=0000A0) ![](https://img.shields.io/badge/Apache-NetBeans-IDE?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white&color=C0C0C0)
  
 <img align="center" alt="Sahan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahannonis&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
-
+</div>
 <div align = "center">
     <h2><h2 style="text-align:center; font-family:Arial Black, Gadget, sans-serif">L E &nbsp;&nbsp; O C T O C A T</h2></h2>
 
 </div>
-</div>
+
 ![octocat](https://user-images.githubusercontent.com/34228337/90335316-cc8b1200-dff1-11ea-96df-a64e84407e6f.png)
