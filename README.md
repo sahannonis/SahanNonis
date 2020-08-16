@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align = "center">
     <h2><h2 style="text-align:center; font-family:Arial Black, Gadget, sans-serif">S A H A N &nbsp;&nbsp; N O N I S</h2></h2>
-</div>
+
 <br>
 <p align="center"> 
   <a href="https://twitter.com/sahan_nonis"><img height="30" src="https://img.icons8.com/fluent/100/000000/twitter.png"></a>&nbsp;&nbsp;
@@ -44,5 +44,5 @@ Here are some ideas to get you started:
     <h2><h2 style="text-align:center; font-family:Arial Black, Gadget, sans-serif">L E &nbsp;&nbsp; O C T O C A T</h2></h2>
 
 </div>
-
+</div>
 ![octocat](https://user-images.githubusercontent.com/34228337/90335316-cc8b1200-dff1-11ea-96df-a64e84407e6f.png)
