@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/spirit_fenrir"><img height="30" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sahan-nonis-510433149/"><img height="30" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>&nbsp;&nbsp;
   <a href="https://www.behance.net/sahannonis"><img height="30" src="https://img.icons8.com/color/48/000000/behance.png"></a>&nbsp;&nbsp;
-  <a href="https://www.behance.net/sahannonis"><img height="30" src="https://img.icons8.com/color/48/000000/behance.png"></a>&nbsp;&nbsp;
   <a href="https://dribbble.com/sahannonis"><img height="30" src="https://img.icons8.com/color/64/000000/dribbble.png"></a>
 </p>
 <br>
