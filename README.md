@@ -1,4 +1,4 @@
-<center> ![tenor](https://user-images.githubusercontent.com/34228337/90336502-e16ba380-dff9-11ea-835d-129869f66ab1.gif) </center>
+
 <!--
 **sahannonis/SahanNonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
