@@ -1,4 +1,5 @@
-![Spirit](https://user-images.githubusercontent.com/34228337/90333181-5088ce00-dfe1-11ea-868e-906ca0995a11.png)
+# WELCOME ![tenor](https://user-images.githubusercontent.com/34228337/90336502-e16ba380-dff9-11ea-835d-129869f66ab1.gif)
+<hr>
 <!--
 **sahannonis/SahanNonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,3 +50,7 @@ Here are some ideas to get you started:
 </div>
 
 ![octocat](https://user-images.githubusercontent.com/34228337/90335316-cc8b1200-dff1-11ea-96df-a64e84407e6f.png)
+
+<hr>
+
+![Spirit](https://user-images.githubusercontent.com/34228337/90333181-5088ce00-dfe1-11ea-868e-906ca0995a11.png)
