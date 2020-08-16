@@ -1,5 +1,4 @@
 # WELCOME ![tenor](https://user-images.githubusercontent.com/34228337/90336502-e16ba380-dff9-11ea-835d-129869f66ab1.gif)
-<hr>
 <!--
 **sahannonis/SahanNonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +26,8 @@ Here are some ideas to get you started:
   <a href="https://steamcommunity.com/id/spiritfenrir"><img height="30" src="https://img.icons8.com/fluent/48/000000/steam.png"></a>
 </p>
 <br>
+
+# About me
 
 # Favorite Project
 ### Game with voice control using UE4
