@@ -33,15 +33,6 @@ Here are some ideas to get you started:
 </div>
 
 # About me
-<p>
-   <img src="https://github.com/sahannonis/SahanNonis/blob/master/OCTOO.JPG?raw=true" width="190" height="190" align ="left">
-   
- </p>
-  <br>
-
-
-
-<br>
 
 # Programming Languages <img src="https://img.icons8.com/dusk/64/000000/visualization-skill.png"/>
 <br>
