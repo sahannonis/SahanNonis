@@ -35,12 +35,7 @@ Here are some ideas to get you started:
 # About me
 <p>
    <img src="https://github.com/sahannonis/SahanNonis/blob/master/OCTOO.JPG?raw=true" width="190" height="190" align ="left">
-    💌 I am a developer, designer and aspiring digital artist
-    💻 Security Analyst and Pentester
-    🎀 WEEB DEGENERATE
-    💟 Currently working on web design and blog design,
-    ✨and honing my skills in computer security.
-    🧭 Hobbies include gaming, watching anime and drawing
+   
  </p>
   <br>
 
