@@ -26,12 +26,13 @@ Here are some ideas to get you started:
   <a href="https://steamcommunity.com/id/spiritfenrir"><img height="30" src="https://img.icons8.com/fluent/48/000000/steam.png"></a>
 </p>
 <br>
+<div align="center">
+
+![8f95a35d52b112e4a2c37bfdef66dbdbb53390a2_hq](https://user-images.githubusercontent.com/34228337/90435952-78fdee80-e0ed-11ea-9e01-ae6d10ef0f83.gif)
+
+</div>
 
 # About me
-
-# Favorite Project
-### Game with voice control using UE4
-![Game](https://user-images.githubusercontent.com/34228337/90333465-92b30f00-dfe3-11ea-81f1-81a15fbb9204.JPG)
 
 # Programming Languages <img src="https://img.icons8.com/dusk/64/000000/visualization-skill.png"/>
 <br>
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
 
 
 # Technologies <img src="https://img.icons8.com/color/48/000000/modern-art.png"/>
- ![](https://img.shields.io/badge/Unreal_Engine-4?style=for-the-badge&logo=Unreal-Engine&logoColor=white&color=000000) ![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=ADD8E6)   ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=800080) ![](https://img.shields.io/badge/VS-Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=800080)  ![](https://img.shields.io/badge/Android-Studio-informational?style=for-the-badge&logo=android&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=FF0000) ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=FF4500) ![](https://img.shields.io/badge/Adobe-PremierePro-informational?style=for-the-badge&logo=adobe&logoColor=white&color=800080) ![](https://img.shields.io/badge/Sony-Vegas-informational?style=for-the-badge&logo=moo&logoColor=white&color=0000A0) ![](https://img.shields.io/badge/Apache-NetBeans-IDE?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white&color=C0C0C0)
+ ![](https://img.shields.io/badge/Unreal_Engine-4?style=for-the-badge&logo=Unreal-Engine&logoColor=white&color=000000) ![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=ADD8E6)   ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=800080) ![](https://img.shields.io/badge/VS-Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=800080)  ![](https://img.shields.io/badge/Android-Studio-informational?style=for-the-badge&logo=android&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=FF0000) ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=FF4500) ![](https://img.shields.io/badge/Adobe-PremierePro-informational?style=for-the-badge&logo=adobe&logoColor=white&color=800080) ![](https://img.shields.io/badge/Sony-Vegas-informational?style=for-the-badge&logo=moo&logoColor=white&color=0000A0) ![](https://img.shields.io/badge/Apache-NetBeans-IDE?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white&color=C0C0C0) 
  
 <img align="center" alt="Sahan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahannonis&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
 </div>
