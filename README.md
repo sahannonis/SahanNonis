@@ -34,10 +34,9 @@ Here are some ideas to get you started:
 
 # About me
 
-<p>
-   <img src="https://user-images.githubusercontent.com/34228337/90335316-cc8b1200-dff1-11ea-96df-a64e84407e6f.png>
+   <img src="https://github.com/sahannonis/SahanNonis/blob/master/OCTOO.JPG?raw=true" width="190" height="190" align ="left">
 
-  </p>
+ 
   <br>
 
 # Programming Languages <img src="https://img.icons8.com/dusk/64/000000/visualization-skill.png"/>
