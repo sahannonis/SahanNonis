@@ -46,10 +46,7 @@ Here are some ideas to get you started:
  
 <img align="center" alt="Sahan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahannonis&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
 </div>
-<div align = "center">
-    <h2><h2 style="text-align:center; font-family:Arial Black, Gadget, sans-serif">L E &nbsp;&nbsp; O C T O C A T</h2></h2>
 
-</div>
 
 <p>
    <img src="https://github.com/sahannonis/SahanNonis/blob/master/OCTOO.JPG?raw=true" width="190" height="190" align ="left">
