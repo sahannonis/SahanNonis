@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 
-![8f95a35d52b112e4a2c37bfdef66dbdbb53390a2_hq](https://user-images.githubusercontent.com/34228337/90435952-78fdee80-e0ed-11ea-9e01-ae6d10ef0f83.gif)
+![0109](https://user-images.githubusercontent.com/34228337/90496448-750cb380-e163-11ea-994a-b60fe2bbd9b5.png)
 
 </div>
 
