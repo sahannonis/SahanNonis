@@ -48,10 +48,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<p>
-   <img src="https://github.com/sahannonis/SahanNonis/blob/master/OCTOO.JPG?raw=true" width="190" height="190" align ="left">
-   
- </p>
+
   <br>
 
 <hr>
