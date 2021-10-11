@@ -53,4 +53,3 @@ Here are some ideas to get you started:
 
 <hr>
 
-![Spirit](https://user-images.githubusercontent.com/34228337/90333181-5088ce00-dfe1-11ea-868e-906ca0995a11.png)
